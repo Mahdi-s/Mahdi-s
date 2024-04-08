@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **mahdisaeediv@gmail.com**
 
-- 📄 Know about my experiences [www.msaeedi.dev](www.msaeedi.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
