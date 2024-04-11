@@ -5,9 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdi-s" alt="mahdi-s" /></a> </p>
 -->
+
 - 🔭 I’m currently working on **Federated Machine Learning**
 
-- 🌱 I’m currently learning **Three.js and React Native**
+- 🌱 I’m currently learning **LLM Development From Scratch**
 
 - 👨‍💻 All of my projects are available at [www.msaeedi.dev](www.msaeedi.dev)
 
