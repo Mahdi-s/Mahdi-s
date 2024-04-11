@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Federated Machine Learning**
 
-- 🌱 I’m currently learning **LLM Development From Scratch**
+- 🌱 I’m currently learning **LLM Development**
 
 - 👨‍💻 All of my projects are available at [www.msaeedi.dev](www.msaeedi.dev)
 
