@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [www.msaeedi.dev](www.msaeedi.dev)
 
-- 📝 I regularly write articles on [https://mahdisaeedi.medium.com/](https://mahdisaeedi.medium.com/)
+- 📝 I sometimes write articles on [https://mahdisaeedi.medium.com/](https://mahdisaeedi.medium.com/)
 
 - 💬 Ask me about **Machine Learning, and Application Developments**
 
