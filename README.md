@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **Federated Machine Learning**
 
-- 🌱 I’m currently learning **LLM Development**
+- 🌱 I’m currently learning **LLMs**
 
 - 👨‍💻 All of my projects are available at [www.msaeedi.dev](www.msaeedi.dev)
 
 - 📝 I sometimes write articles on [https://mahdisaeedi.medium.com/](https://mahdisaeedi.medium.com/)
 
-- 💬 Ask me about **Machine Learning, and Application Developments**
+- 💬 Ask me about **Machine Learning, and Application Development**
 
 - 📫 How to reach me **mahdisaeediv@gmail.com**
 
