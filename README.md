@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **LLMs**
 
-- 👨‍💻 All of my projects are available at [www.msaeedi.dev](www.msaeedi.dev)
+- 👨‍💻 My projects showcases are available at [www.msaeedi.dev](www.msaeedi.dev)
 
 - 📝 I sometimes write articles on [https://mahdisaeedi.medium.com/](https://mahdisaeedi.medium.com/)
 
