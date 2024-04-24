@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on **Federated Machine Learning**
 
-- 🌱 I’m currently learning **LLMs**
-
 - 👨‍💻 My projects showcases are available at [www.msaeedi.dev](www.msaeedi.dev)
 
 - 📝 I sometimes write articles on [https://mahdisaeedi.medium.com/](https://mahdisaeedi.medium.com/)
