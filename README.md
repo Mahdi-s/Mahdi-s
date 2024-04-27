@@ -16,5 +16,5 @@
 
 - 📫 How to reach me **mahdisaeediv@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdi-s&show_icons=true&locale=en&layout=compact" alt="mahdi-s" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdi-s&show_icons=true&locale=en&layout=compact" alt="mahdi-s" /></p>
 
