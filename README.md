@@ -6,15 +6,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdi-s" alt="mahdi-s" /></a> </p>
 -->
 
-- 🔭 I’m currently working on **Federated Machine Learning**
+<p align="center"> 🔭 I’m currently working on <b>Federated Machine Learning</b></p>
 
-- 👨‍💻 My projects showcases are available at [www.msaeedi.dev](www.msaeedi.dev)
+<p align="center"> 👨‍💻 My projects showcases are available at <a href="https://www.msaeedi.dev">www.msaeedi.dev</a></p>
 
-- 📝 I sometimes write articles on [https://mahdisaeedi.medium.com/](https://mahdisaeedi.medium.com/)
+<p align="center"> 📝 I sometimes write articles on <a href="https://mahdisaeedi.medium.com/">https://mahdisaeedi.medium.com/</a></p>
 
-- 💬 Ask me about **Machine Learning, and Application Development**
+<p align="center"> 💬 Ask me about <b>Machine Learning, and Application Development</b></p>
 
-- 📫 How to reach me **mahdisaeediv@gmail.com**
+<p align="center"> 📫 How to reach me <b>mahdisaeediv@gmail.com</b></p>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdi-s&show_icons=true&locale=en&layout=compact" alt="mahdi-s" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdi-s&show_icons=true&locale=en&layout=compact" alt="mahdi-s" /></p>
 
