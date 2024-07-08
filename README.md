@@ -8,7 +8,7 @@
 
 <p align="center"> 🔭 I’m currently working on <b>Federated Machine Learning</b></p>
 
-<p align="center"> 👨‍💻 My projects showcases are available at <a href="https://www.msaeedi.dev">www.msaeedi.dev</a></p>
+<p align="center"> 👨‍💻 My projects showcases are available at <a href="https://msaeedi.dev">msaeedi.dev</a></p>
 
 <p align="center"> 📝 I sometimes write articles on <a href="https://mahdisaeedi.medium.com/">https://mahdisaeedi.medium.com/</a></p>
 
