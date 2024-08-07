@@ -13,5 +13,3 @@
 <p align="center"> 📝 I sometimes write articles on <a href="https://mahdisaeedi.medium.com/">https://mahdisaeedi.medium.com/</a></p>
 
 <p align="center"> 📫 How to reach me <b>mahdisaeediv@gmail.com</b></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdi-s&show_icons=true&locale=en&layout=compact" alt="mahdi-s" /></p>
