@@ -14,4 +14,8 @@
 
 <p align="center"> 📫 How to reach me <b>mahdisaeediv@gmail.com</b></p>
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+<p align="center">
+  <a href="https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI">
+    <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  </a>
+</p>
