@@ -14,7 +14,7 @@
 
 <p align="center"> 🎤 Checkout my podcast <a href="https://www.youtube.com/@Podlucination/videos">Podlucination</a></p>
 
-<p align="center"> 📫 How to reach me <b>mahdisaeediv@gmail.com</b></p>
+<p align="center"> 📫 Reach out: <b>mahdisaeediv@gmail.com</b></p>
 
 <p align="center">
   <a href="https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI">
