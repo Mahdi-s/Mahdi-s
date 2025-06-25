@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdi-s" alt="mahdi-s" /></a> </p>
 -->
 
-<p align="center"> 🔭 I’m currently working on <b>Generative AI in legal tech, and ML interpretability</b></p>
+<p align="center"> 🔭 I’m currently working on <b>Gen AI in legal tech, and interpretability</b></p>
 
 <p align="center"> 👨‍💻 My projects showcase is available at <a href="https://msaeedi.dev">msaeedi.dev</a></p>
 
