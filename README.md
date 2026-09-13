@@ -16,8 +16,4 @@
 
 <p align="center"> 📫 How to reach out: <b>mahdisaeediv@gmail.com</b></p>
 
-<p align="center">
-  <a href="https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI">
-    <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify Now Playing" />
-  </a>
-</p>
+
